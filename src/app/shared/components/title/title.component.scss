@@ -1,0 +1,6 @@
+@use '../../../../sass/abstract/colore' as c;
+
+.title {
+    padding: 15px;
+    background-color: c.$white;
+}
